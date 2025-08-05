@@ -12,6 +12,8 @@ A data warehouse project focused on analyzing the correlation between climate va
 - **Apache Spark**: For performing large-scale data transformations and ETL (Extract, Transform, Load) processes.
 - **MinIO**: As an object storage service to simulate an S3-compatible data lake.
 
+![Techs](img/img3.png)
+
 ## 📈 Project Structure
 
 All ETL operations and analytical queries were implemented using two Jupyter Notebooks:
